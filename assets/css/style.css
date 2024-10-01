@@ -1,0 +1,64 @@
+body{
+    background-color: #ff7e72;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    border: unset;
+    border-radius: 10px;
+    background-color: #003d63;
+    color: #ffecf3;
+}
+
+button:hover{
+    background-color: #0084db;
+    cursor: pointer;
+}
+
+.first-div{
+    height: 30vh;
+    background-color: #67db00;
+    display: flex;
+}
+
+.second-div{
+    height: 30vh;
+    background-color: #0e90db;
+    display: flex;
+}
+
+.third-div{
+    height: 30vh;
+    background-color: #db54c1;
+}
+
+.x{
+    height: 30vh;
+    width: 50%;
+    background-color: #8effc5;
+}
+
+.y{
+    height: 30vh;
+    width: 50%;
+    background-color: #f2ddff;
+}
+
+.a{
+    height: 30vh;
+    width: 30%;
+    background-color: #ffe061;
+}
+
+.b{
+    height: 30vh;
+    background-color: #008fff;
+    width: 40%;
+}
+
+.c{
+    height: 30vh;
+    width: 30%;
+    background-color: #584b57;
+}
